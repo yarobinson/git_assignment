@@ -35,4 +35,4 @@ g. What is the main branch?
 The main branch is the default branch created after making new repositories
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-This depends on what changes we are making. If changes are unrelated to a file (ex.READMe file) in the main branch then we should push our changes into the another branch either by creating a new brand or using an existing one. If we are making changes to a file in the main branch then we should push our changes to the main branch.
+This depends on what changes we are making. If changes are unrelated to a file (ex.READMe file) in the main branch then we should push our changes into the another branch either by creating a new branch or using an existing one. If we are making changes to a file in the main branch then we should push our changes to the main branch.
