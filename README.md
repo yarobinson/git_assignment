@@ -1,1 +1,1 @@
-# Git Assignment - <yarobinson>
+# Git Assignment - yarobinson
